@@ -4,9 +4,7 @@ Vertigo2D
 2D Game Engine written in C++ utilizing DirectX for rendering and Lua for scripting.
 
 
-The code exhibited here is from portions of a 2D game engine I have been working on.
-
-Not all of the engine codebase is shown. 
+The code exhibited here is from portions of a 2D game engine I have been working on. Not all of the engine codebase is shown. 
 
 Check out screen captured footage of a demo built utilizing the engine:
 <LINK HERE>
