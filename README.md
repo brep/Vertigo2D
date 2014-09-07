@@ -12,7 +12,7 @@ Check out screen captured footage of a demo built utilizing the engine:
 Or alternatively, play the demo yourself!
   - https://drive.google.com/file/d/0B3ibVwBSblwWVTFkcXBObFdSR1k/edit?usp=sharing
   
-  NOTE:
+NOTE:
   - The demo only runs on PC (for now... there are future plans to make the engine cross-platform) 
   
   - You'll need to have Microsoft Visual C++ 11 runtime:
