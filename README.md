@@ -15,7 +15,7 @@ Or alternatively, play the demo yourself!
 NOTE:
   - The demo only runs on PC (for now... there are future plans to make the engine cross-platform) 
   
-  - You'll need to have Microsoft Visual C++ 11 runtime:
+  - You'll need to have Microsoft Visual C++ 11 runtime installed:
     - http://www.microsoft.com/en-us/download/details.aspx?id=30679
   
   - You'll also need DirectX 9 components installed:
