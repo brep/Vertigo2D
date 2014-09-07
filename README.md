@@ -10,7 +10,7 @@ Check out screen captured footage of a demo built utilizing the engine:
 <LINK HERE>
 
 Or alternatively, play the demo yourself!
-  - https://drive.google.com/file/d/0B3ibVwBSblwWVTFkcXBObFdSR1k/edit?usp=sharing
+  - https://drive.google.com/file/d/0B3ibVwBSblwWRVBwUmJNeTVXVE0/edit?usp=sharing
   
 NOTE:
   - The demo only runs on PC (for now... there are future plans to make the engine cross-platform) 
